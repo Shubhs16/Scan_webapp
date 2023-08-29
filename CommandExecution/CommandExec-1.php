@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html>
   <head>
     <link rel="shortcut icon" href="../Resources/hmbct.png" />
